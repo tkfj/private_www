@@ -1,0 +1,3 @@
+[submodule "sites/calendar_doaxvv"]
+	path = sites/calendar_doaxvv
+	url = git@github.com:tkfj/calendar_doaxvv.git
